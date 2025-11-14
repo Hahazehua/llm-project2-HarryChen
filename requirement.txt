@@ -1,0 +1,6 @@
+transformers>=4.30.0
+torch
+accelerate
+bitsandbytes
+huggingface_hub
+pytest
